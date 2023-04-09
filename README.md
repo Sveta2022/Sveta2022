@@ -1,16 +1,21 @@
-### Hi there 👋
+# Привет 👋
 
-<!--
-**Sveta2022/Sveta2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##  Меня зовут Светлана!  
+### Я junior Java-разработчик.
 
-Here are some ideas to get you started:
+### **Мои проекты:** <br>
+ - [filmorate](https://github.com/Sveta2022/java-filmorate)<br>
+ - [share it](https://github.com/Sveta2022/java-shareit)<br>
+ - [explore with me](https://github.com/Sveta2022/java-explore-with-me)<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **Инструменты:** <br>
+
+<img src="./icon/docker.png" width = "15%"  />
+<img src="./icon/idea.png" width = "15%"  />
+<img src="./icon/github.png" width = "15%"  />
+<img src="./icon/postgre.png" width = "15%"  />
+<img src="./icon/spring.png" width = "15%"  />
+
+
+
+
