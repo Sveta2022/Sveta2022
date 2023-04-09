@@ -10,12 +10,4 @@
 
 ### **Инструменты:** <br>
 
-<img src="./icon/docker.png" width = "15%"  />
-<img src="./icon/idea.png" width = "15%"  />
-<img src="./icon/github.png" width = "15%"  />
-<img src="./icon/postgre.png" width = "15%"  />
-<img src="./icon/spring.png" width = "15%"  />
-
-
-
-
+<img src='https://github.com/Sveta2022/Sveta2022/blob/main/Icon/docker.png' width = "5%"/>  <img src='https://github.com/Sveta2022/Sveta2022/blob/main/Icon/github.png' width = "5%"/>  <img src='https://github.com/Sveta2022/Sveta2022/blob/main/Icon/idea.png' width = "5%"/>  <img src='https://github.com/Sveta2022/Sveta2022/blob/main/Icon/postgre.png' width = "5%"/>  <img src='https://github.com/Sveta2022/Sveta2022/blob/main/Icon/spring.png' width = "5%"/>
